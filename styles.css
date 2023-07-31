@@ -2,6 +2,9 @@ ul{
 	list-style:none;
 	text-decoration:none;
 }
+.h1{
+	text-align:center
+}
 .links{
 /* 	list-style:none; */
 	text-decoration:none;
